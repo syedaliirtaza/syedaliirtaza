@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aliirtaza401@gmail.com**
 
-- 📫 My portfolio website **irtaza.dev**
+- 📫 My portfolio website **https://irtaza.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
