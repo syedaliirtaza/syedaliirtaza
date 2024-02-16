@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Syed Ali Irtaza</h1>
 <h3 align="center">Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Full Stack Phishing Simulator Application**
+- 🔭 I’m currently working on **Full Stack School management system**
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
 - 📫 How to reach me **aliirtaza401@gmail.com**
+
+- 📫 My portfolio website **irtaza.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
