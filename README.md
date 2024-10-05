@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Ali Irtaza</h1>
-<h3 align="center">Software Engineer from Pakistan</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **Full Stack School management system**
 
