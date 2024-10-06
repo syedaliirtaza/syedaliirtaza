@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack School management system**
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 **Amazon Web Services**
 
 - 📫 How to reach me **aliirtaza401@gmail.com**
 
