@@ -1,5 +1,3 @@
-<h1 align="center">Building agentic systems.</h1>
-
 <p align="center">
   Hi, I'm <strong>Syed Ali Irtaza</strong>. I'm a founder at stealth building personal agents, engineer by profession <br />
   and I'm obsessed with building things people actually use.
